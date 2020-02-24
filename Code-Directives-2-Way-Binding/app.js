@@ -22,3 +22,5 @@ myApp.controller('mainController', ['$scope', '$filter', function($scope, $filte
     }
 
 }]);
+
+// todo: this is cool
